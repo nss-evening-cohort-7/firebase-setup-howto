@@ -1,4 +1,4 @@
-Firebase Setup:	
+### Firebase Setup:	
   - Go to https://firebase.google.com/
   - [One time]: Sign up for a firebase account
   - Go To Console
